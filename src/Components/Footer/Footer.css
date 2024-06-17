@@ -1,0 +1,35 @@
+.FooterBlock {
+  clear: both;
+  margin-top: 3rem;
+}
+.FooterBlock footer {
+  color: #fff;
+}
+.FooterBlock footer .text-body-secondary {
+  color: #fff !important;
+}
+.FooterBlock footer .link-body-emphasis svg {
+  color: #fff;
+}
+.FooterBlock .footer-service-section {
+  background-color: #3a2278;
+  padding: 1.8rem;
+  margin-top: -6rem;
+  border-radius: 4px;
+}
+.FooterBlock .footer-service-section .service-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+}
+.FooterBlock .footer-service-section .service-wrapper .service-info {
+  font-size: 0.8rem;
+  color: #fff;
+  margin-bottom: 0;
+}
+.FooterBlock .footer-service-section .service-wrapper .service-details {
+  font-size: 0.8rem;
+  font-weight: 400;
+}/*# sourceMappingURL=Footer.css.map */

@@ -1,0 +1,33 @@
+.NavbarBlock .ticker-banner {
+  align-items: center;
+  background: #392373;
+  display: flex;
+  justify-content: center;
+  max-height: 48px;
+}
+.NavbarBlock .ticker-banner h2 {
+  color: #fff;
+  font-size: 1rem;
+  margin: 0px;
+  padding: 8px;
+}
+.NavbarBlock .navbar-toggler {
+  background: #61628f;
+  color: #fff;
+  border: none;
+  box-shadow: none;
+}
+.NavbarBlock .cart-count-bubble {
+  top: 2px;
+  right: 2px;
+}
+.NavbarBlock .cart-count-bubble span {
+  color: #fff;
+  font-size: 0.8rem;
+}
+.NavbarBlock .carticon {
+  margin-left: 15px;
+}
+.NavbarBlock .carticon svg {
+  color: #fff;
+}/*# sourceMappingURL=Navbar.css.map */

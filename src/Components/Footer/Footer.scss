@@ -1,0 +1,38 @@
+.FooterBlock {
+    clear:both;
+    margin-top: 3rem;
+    footer{
+        color:#fff;
+        .text-body-secondary {
+            color:#fff!important;
+        }
+        .link-body-emphasis {
+            svg{
+                color:#fff;
+            }
+        }
+    }
+    .footer-service-section {
+        background-color: #3a2278;
+        padding: 1.8rem;
+        margin-top: -6rem;
+        border-radius: 4px;
+        .service-wrapper {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 2rem;
+            .service-info {
+                font-size: 0.8rem;
+                color: #fff;
+                margin-bottom: 0;
+            }
+            .service-details {
+                font-size: 0.8rem;
+                font-weight: 400;
+            }
+        }
+    }
+    
+}

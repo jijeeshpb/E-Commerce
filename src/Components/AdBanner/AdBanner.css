@@ -1,0 +1,12 @@
+.AdBanner .Ad-Banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  margin: 0px auto;
+}
+.AdBanner .Ad-Banner img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}/*# sourceMappingURL=AdBanner.css.map */

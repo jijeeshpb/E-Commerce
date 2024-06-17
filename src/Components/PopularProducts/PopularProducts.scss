@@ -1,0 +1,34 @@
+.PopularProducts {
+
+    .aspect-square {
+        aspect-ratio: 1 / 1;
+        overflow: hidden;
+        max-height: 160px;
+    }
+
+    .col-product-block {
+        flex: 1 0 18%; /* The important bit. This percentage decides your columns. 
+    The percent can be px. It just represents your minimum starting width.
+        */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .card {
+        width: 100%;
+
+        .card-body {
+            padding:15px;
+        }
+    
+        .card-title{
+            height:40px;
+            font-size:1rem;
+            overflow: hidden;
+    
+        }
+    }
+
+    
+}

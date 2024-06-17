@@ -1,0 +1,31 @@
+.OurStores .slider-container {
+  padding: 0px;
+}
+.OurStores .slider-container .slick-arrow {
+  position: absolute;
+  z-index: 5;
+}
+.OurStores .slider-container .slick-next {
+  right: 13px;
+}
+.OurStores .slider-container .slick-prev {
+  left: 13px;
+}
+.OurStores .slider-container .slick-prev:before, .OurStores .slider-container .slick-next:before {
+  color: #dadada;
+}
+.OurStores .card {
+  background-color: #f7f7f7;
+}
+.OurStores .card .Store_img {
+  width: 80px;
+  height: 80px;
+  margin: 10px auto;
+}
+.OurStores .card .card-body {
+  padding: 5px;
+}
+.OurStores .card .card-body .h5 {
+  font-size: 1rem;
+  color: #101137;
+}/*# sourceMappingURL=OurStores.css.map */

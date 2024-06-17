@@ -1,0 +1,18 @@
+.ShopByCategory {
+    .card {
+        border:none;
+        border-radius: 0;
+        .cardimg {
+            border-radius: var(--bs-card-border-radius);
+            max-height: 190px;
+            overflow: hidden;
+            .card-img-top {
+                height: auto;
+                aspect-ratio: 1 / 1;
+            }
+        }
+        .card-title {
+            font-size: 1rem;
+        }
+    }
+}
