@@ -182,8 +182,7 @@ body {
   .ProductDetailSpecification {
     background-color: #dadada;
     
-    
-    @media (max-width: 991px) {
+        @media (max-width: 991px) {
         .tab-content>.tab-pane {
             display: block;
             opacity: 1;
